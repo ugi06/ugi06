@@ -25,8 +25,8 @@
 - Spring Boot & REST APIs  
 - Data Structures & Algorithms  
 - SQL for Data Analysis  
-- Möbius Transformations  
-- Java Web Development  
+- Java Web Development
+- Machine Learning
 
 ---
 
